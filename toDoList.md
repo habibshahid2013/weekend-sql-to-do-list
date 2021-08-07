@@ -1,16 +1,16 @@
 ### To DO LIST For WEEKEND Challenge 
 
 ## Document Set Up 
-[] Create a Server folder
-[] Create a Server.js file
-[] Create .gitignore file
-[] Create a Public Folder
-[] Create Scripts folder Client.js file 
-[] Create an index.html
-[] Create an styles folder and CSS file
-[] Create modules folder pool.js file //maybe not exactly sure we'll need it 
-[] Create Routes folder and a router in the folder. 
-[] Create a vendors folder and submit your Jquery. 
+[X] Create a Server folder
+[X] Create a Server.js file
+[X] Create .gitignore file
+[X] Create a Public Folder
+[X] Create Scripts folder Client.js file 
+[X] Create an index.html
+[X] Create an styles folder and CSS file
+[X] Create modules folder pool.js file //maybe not exactly sure we'll need it 
+[X] Create Routes folder and a router in the folder. 
+[X] Create a vendors folder and submit your Jquery. 
 
 ## Post Set Up 
 [] Set up html 
